@@ -1,0 +1,26 @@
+file_name,full_path,label,description
+ar_collective_anomaly_231.csv,./data/raw/anomaly/collective_anomaly/AR/short/single/middle/ar_collective_anomaly_231.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+ar_collective_anomaly_514.csv,./data/raw/anomaly/collective_anomaly/AR/medium/single/middle/ar_collective_anomaly_514.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+white_noise_collective_anomaly_347.csv,./data/raw/anomaly/collective_anomaly/White_Noise/medium/single/beginning/white_noise_collective_anomaly_347.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+arma_collective_anomaly_896.csv,./data/raw/anomaly/collective_anomaly/ARMA/medium/single/end/arma_collective_anomaly_896.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+white_noise_collective_anomaly_787.csv,./data/raw/anomaly/collective_anomaly/White_Noise/medium/single/end/white_noise_collective_anomaly_787.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+arma_collective_anomaly_334.csv,./data/raw/anomaly/collective_anomaly/ARMA/short/single/middle/arma_collective_anomaly_334.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+white_noise_collective_anomaly_412.csv,./data/raw/anomaly/collective_anomaly/White_Noise/short/single/beginning/white_noise_collective_anomaly_412.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+white_noise_collective_anomaly_487.csv,./data/raw/anomaly/collective_anomaly/White_Noise/medium/single/middle/white_noise_collective_anomaly_487.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+white_noise_collective_anomaly_22.csv,./data/raw/anomaly/collective_anomaly/White_Noise/medium/single/end/white_noise_collective_anomaly_22.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+ar_collective_anomaly_329.csv,./data/raw/anomaly/collective_anomaly/AR/medium/single/end/ar_collective_anomaly_329.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+ma_collective_anomaly_621.csv,./data/raw/anomaly/collective_anomaly/MA/medium/single/middle/ma_collective_anomaly_621.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+ma_collective_anomaly_223.csv,./data/raw/anomaly/collective_anomaly/MA/medium/single/beginning/ma_collective_anomaly_223.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+ar_collective_anomaly_606.csv,./data/raw/anomaly/collective_anomaly/AR/short/single/middle/ar_collective_anomaly_606.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+ma_collective_anomaly_432.csv,./data/raw/anomaly/collective_anomaly/MA/medium/single/end/ma_collective_anomaly_432.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+arma_collective_anomaly_805.csv,./data/raw/anomaly/collective_anomaly/ARMA/medium/single/end/arma_collective_anomaly_805.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+ma_collective_anomaly_200.csv,./data/raw/anomaly/collective_anomaly/MA/short/single/middle/ma_collective_anomaly_200.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+white_noise_collective_anomaly_91.csv,./data/raw/anomaly/collective_anomaly/White_Noise/short/single/beginning/white_noise_collective_anomaly_91.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+arma_collective_anomaly_985.csv,./data/raw/anomaly/collective_anomaly/ARMA/short/multiple/arma_collective_anomaly_985.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+white_noise_collective_anomaly_43.csv,./data/raw/anomaly/collective_anomaly/White_Noise/short/single/middle/white_noise_collective_anomaly_43.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+ma_collective_anomaly_377.csv,./data/raw/anomaly/collective_anomaly/MA/short/single/middle/ma_collective_anomaly_377.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+arma_collective_anomaly_278.csv,./data/raw/anomaly/collective_anomaly/ARMA/short/multiple/arma_collective_anomaly_278.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+ar_collective_anomaly_540.csv,./data/raw/anomaly/collective_anomaly/AR/short/single/beginning/ar_collective_anomaly_540.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+ma_collective_anomaly_198.csv,./data/raw/anomaly/collective_anomaly/MA/short/single/middle/ma_collective_anomaly_198.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+ma_collective_anomaly_306.csv,./data/raw/anomaly/collective_anomaly/MA/short/single/middle/ma_collective_anomaly_306.csv,Collective Anomaly,There is a Collective Anomaly in this series.
+white_noise_collective_anomaly_389.csv,./data/raw/anomaly/collective_anomaly/White_Noise/short/single/end/white_noise_collective_anomaly_389.csv,Collective Anomaly,There is a Collective Anomaly in this series.

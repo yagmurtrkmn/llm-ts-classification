@@ -1,0 +1,26 @@
+file_name,full_path,label,description
+white_noise_mean_shift_935.csv,./data/raw/structural_break/mean_shift/White_Noise/short/multiple/white_noise_mean_shift_935.csv,Mean Shift,There is a Mean Shift in this series.
+arma_mean_shift_706.csv,./data/raw/structural_break/mean_shift/ARMA/medium/single/middle/arma_mean_shift_706.csv,Mean Shift,There is a Mean Shift in this series.
+ma_mean_shift_912.csv,./data/raw/structural_break/mean_shift/MA/short/single/end/ma_mean_shift_912.csv,Mean Shift,There is a Mean Shift in this series.
+arma_mean_shift_626.csv,./data/raw/structural_break/mean_shift/ARMA/medium/multiple/arma_mean_shift_626.csv,Mean Shift,There is a Mean Shift in this series.
+white_noise_mean_shift_495.csv,./data/raw/structural_break/mean_shift/White_Noise/medium/multiple/white_noise_mean_shift_495.csv,Mean Shift,There is a Mean Shift in this series.
+ar_mean_shift_86.csv,./data/raw/structural_break/mean_shift/AR/short/single/middle/ar_mean_shift_86.csv,Mean Shift,There is a Mean Shift in this series.
+arma_mean_shift_986.csv,./data/raw/structural_break/mean_shift/ARMA/short/single/end/arma_mean_shift_986.csv,Mean Shift,There is a Mean Shift in this series.
+white_noise_mean_shift_562.csv,./data/raw/structural_break/mean_shift/White_Noise/medium/multiple/white_noise_mean_shift_562.csv,Mean Shift,There is a Mean Shift in this series.
+white_noise_mean_shift_979.csv,./data/raw/structural_break/mean_shift/White_Noise/short/single/end/white_noise_mean_shift_979.csv,Mean Shift,There is a Mean Shift in this series.
+ma_mean_shift_898.csv,./data/raw/structural_break/mean_shift/MA/medium/single/beginning/ma_mean_shift_898.csv,Mean Shift,There is a Mean Shift in this series.
+ma_mean_shift_800.csv,./data/raw/structural_break/mean_shift/MA/medium/single/middle/ma_mean_shift_800.csv,Mean Shift,There is a Mean Shift in this series.
+ar_mean_shift_464.csv,./data/raw/structural_break/mean_shift/AR/medium/multiple/ar_mean_shift_464.csv,Mean Shift,There is a Mean Shift in this series.
+arma_mean_shift_658.csv,./data/raw/structural_break/mean_shift/ARMA/short/multiple/arma_mean_shift_658.csv,Mean Shift,There is a Mean Shift in this series.
+ma_mean_shift_526.csv,./data/raw/structural_break/mean_shift/MA/medium/single/middle/ma_mean_shift_526.csv,Mean Shift,There is a Mean Shift in this series.
+white_noise_mean_shift_95.csv,./data/raw/structural_break/mean_shift/White_Noise/short/single/middle/white_noise_mean_shift_95.csv,Mean Shift,There is a Mean Shift in this series.
+arma_mean_shift_731.csv,./data/raw/structural_break/mean_shift/ARMA/medium/single/end/arma_mean_shift_731.csv,Mean Shift,There is a Mean Shift in this series.
+arma_mean_shift_785.csv,./data/raw/structural_break/mean_shift/ARMA/short/single/middle/arma_mean_shift_785.csv,Mean Shift,There is a Mean Shift in this series.
+arma_mean_shift_917.csv,./data/raw/structural_break/mean_shift/ARMA/medium/single/beginning/arma_mean_shift_917.csv,Mean Shift,There is a Mean Shift in this series.
+white_noise_mean_shift_109.csv,./data/raw/structural_break/mean_shift/White_Noise/short/single/middle/white_noise_mean_shift_109.csv,Mean Shift,There is a Mean Shift in this series.
+arma_mean_shift_520.csv,./data/raw/structural_break/mean_shift/ARMA/medium/single/beginning/arma_mean_shift_520.csv,Mean Shift,There is a Mean Shift in this series.
+ma_mean_shift_394.csv,./data/raw/structural_break/mean_shift/MA/short/multiple/ma_mean_shift_394.csv,Mean Shift,There is a Mean Shift in this series.
+white_noise_mean_shift_869.csv,./data/raw/structural_break/mean_shift/White_Noise/short/single/end/white_noise_mean_shift_869.csv,Mean Shift,There is a Mean Shift in this series.
+ar_mean_shift_654.csv,./data/raw/structural_break/mean_shift/AR/short/single/beginning/ar_mean_shift_654.csv,Mean Shift,There is a Mean Shift in this series.
+white_noise_mean_shift_791.csv,./data/raw/structural_break/mean_shift/White_Noise/short/multiple/white_noise_mean_shift_791.csv,Mean Shift,There is a Mean Shift in this series.
+ma_mean_shift_677.csv,./data/raw/structural_break/mean_shift/MA/short/multiple/ma_mean_shift_677.csv,Mean Shift,There is a Mean Shift in this series.

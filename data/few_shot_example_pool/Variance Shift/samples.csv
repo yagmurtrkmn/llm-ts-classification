@@ -1,0 +1,26 @@
+file_name,full_path,label,description
+ma_variance_shift_968.csv,./data/raw/structural_break/variance_shift/MA/short/single/end/ma_variance_shift_968.csv,Variance Shift,There is a Variance Shift in this series.
+arma_variance_shift_187.csv,./data/raw/structural_break/variance_shift/ARMA/medium/single/beginning/arma_variance_shift_187.csv,Variance Shift,There is a Variance Shift in this series.
+ar_variance_shift_43.csv,./data/raw/structural_break/variance_shift/AR/short/single/end/ar_variance_shift_43.csv,Variance Shift,There is a Variance Shift in this series.
+arma_variance_shift_263.csv,./data/raw/structural_break/variance_shift/ARMA/medium/multiple/arma_variance_shift_263.csv,Variance Shift,There is a Variance Shift in this series.
+arma_variance_shift_802.csv,./data/raw/structural_break/variance_shift/ARMA/short/single/end/arma_variance_shift_802.csv,Variance Shift,There is a Variance Shift in this series.
+arma_variance_shift_568.csv,./data/raw/structural_break/variance_shift/ARMA/short/single/beginning/arma_variance_shift_568.csv,Variance Shift,There is a Variance Shift in this series.
+ar_variance_shift_702.csv,./data/raw/structural_break/variance_shift/AR/short/single/beginning/ar_variance_shift_702.csv,Variance Shift,There is a Variance Shift in this series.
+ma_variance_shift_661.csv,./data/raw/structural_break/variance_shift/MA/medium/single/end/ma_variance_shift_661.csv,Variance Shift,There is a Variance Shift in this series.
+ma_variance_shift_102.csv,./data/raw/structural_break/variance_shift/MA/short/single/middle/ma_variance_shift_102.csv,Variance Shift,There is a Variance Shift in this series.
+ma_variance_shift_472.csv,./data/raw/structural_break/variance_shift/MA/medium/single/end/ma_variance_shift_472.csv,Variance Shift,There is a Variance Shift in this series.
+arma_variance_shift_614.csv,./data/raw/structural_break/variance_shift/ARMA/medium/multiple/arma_variance_shift_614.csv,Variance Shift,There is a Variance Shift in this series.
+white_noise_variance_shift_190.csv,./data/raw/structural_break/variance_shift/White_Noise/short/single/beginning/white_noise_variance_shift_190.csv,Variance Shift,There is a Variance Shift in this series.
+arma_variance_shift_915.csv,./data/raw/structural_break/variance_shift/ARMA/medium/single/end/arma_variance_shift_915.csv,Variance Shift,There is a Variance Shift in this series.
+ma_variance_shift_358.csv,./data/raw/structural_break/variance_shift/MA/short/single/beginning/ma_variance_shift_358.csv,Variance Shift,There is a Variance Shift in this series.
+ma_variance_shift_501.csv,./data/raw/structural_break/variance_shift/MA/short/single/beginning/ma_variance_shift_501.csv,Variance Shift,There is a Variance Shift in this series.
+white_noise_variance_shift_644.csv,./data/raw/structural_break/variance_shift/White_Noise/medium/single/end/white_noise_variance_shift_644.csv,Variance Shift,There is a Variance Shift in this series.
+ar_variance_shift_860.csv,./data/raw/structural_break/variance_shift/AR/medium/single/end/ar_variance_shift_860.csv,Variance Shift,There is a Variance Shift in this series.
+arma_variance_shift_761.csv,./data/raw/structural_break/variance_shift/ARMA/short/single/beginning/arma_variance_shift_761.csv,Variance Shift,There is a Variance Shift in this series.
+ma_variance_shift_768.csv,./data/raw/structural_break/variance_shift/MA/short/single/beginning/ma_variance_shift_768.csv,Variance Shift,There is a Variance Shift in this series.
+arma_variance_shift_264.csv,./data/raw/structural_break/variance_shift/ARMA/short/multiple/arma_variance_shift_264.csv,Variance Shift,There is a Variance Shift in this series.
+white_noise_variance_shift_376.csv,./data/raw/structural_break/variance_shift/White_Noise/short/single/middle/white_noise_variance_shift_376.csv,Variance Shift,There is a Variance Shift in this series.
+arma_variance_shift_903.csv,./data/raw/structural_break/variance_shift/ARMA/short/single/middle/arma_variance_shift_903.csv,Variance Shift,There is a Variance Shift in this series.
+ma_variance_shift_494.csv,./data/raw/structural_break/variance_shift/MA/medium/multiple/ma_variance_shift_494.csv,Variance Shift,There is a Variance Shift in this series.
+ma_variance_shift_281.csv,./data/raw/structural_break/variance_shift/MA/medium/multiple/ma_variance_shift_281.csv,Variance Shift,There is a Variance Shift in this series.
+white_noise_variance_shift_792.csv,./data/raw/structural_break/variance_shift/White_Noise/medium/single/middle/white_noise_variance_shift_792.csv,Variance Shift,There is a Variance Shift in this series.

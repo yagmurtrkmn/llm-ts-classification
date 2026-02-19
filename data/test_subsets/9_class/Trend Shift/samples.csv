@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+ma_trend_shift_774.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/structural_break/trend_shift/MA/medium/single/end/ma_trend_shift_774.csv,Trend Shift,Trend Shift
+ar_trend_shift_749.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/structural_break/trend_shift/AR/medium/single/beginning/ar_trend_shift_749.csv,Trend Shift,Trend Shift
+white_noise_trend_shift_353.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/structural_break/trend_shift/White_Noise/short/single/end/white_noise_trend_shift_353.csv,Trend Shift,Trend Shift

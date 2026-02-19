@@ -1,0 +1,26 @@
+file_name,full_path,label,description
+ar_contextual_anomaly_462.csv,./data/raw/anomaly/contextual_anomaly/AR/medium/single/end/ar_contextual_anomaly_462.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+white_noise_contextual_anomaly_192.csv,./data/raw/anomaly/contextual_anomaly/White_Noise/short/multiple/white_noise_contextual_anomaly_192.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+arma_contextual_anomaly_506.csv,./data/raw/anomaly/contextual_anomaly/ARMA/medium/single/beginning/arma_contextual_anomaly_506.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+arma_contextual_anomaly_929.csv,./data/raw/anomaly/contextual_anomaly/ARMA/short/single/end/arma_contextual_anomaly_929.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+white_noise_contextual_anomaly_413.csv,./data/raw/anomaly/contextual_anomaly/White_Noise/short/single/middle/white_noise_contextual_anomaly_413.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+ma_contextual_anomaly_308.csv,./data/raw/anomaly/contextual_anomaly/MA/medium/single/middle/ma_contextual_anomaly_308.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+ma_contextual_anomaly_338.csv,./data/raw/anomaly/contextual_anomaly/MA/short/single/middle/ma_contextual_anomaly_338.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+arma_contextual_anomaly_230.csv,./data/raw/anomaly/contextual_anomaly/ARMA/medium/single/end/arma_contextual_anomaly_230.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+white_noise_contextual_anomaly_22.csv,./data/raw/anomaly/contextual_anomaly/White_Noise/short/multiple/white_noise_contextual_anomaly_22.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+ma_contextual_anomaly_398.csv,./data/raw/anomaly/contextual_anomaly/MA/short/single/beginning/ma_contextual_anomaly_398.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+arma_contextual_anomaly_453.csv,./data/raw/anomaly/contextual_anomaly/ARMA/short/single/end/arma_contextual_anomaly_453.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+ma_contextual_anomaly_330.csv,./data/raw/anomaly/contextual_anomaly/MA/medium/single/beginning/ma_contextual_anomaly_330.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+ma_contextual_anomaly_243.csv,./data/raw/anomaly/contextual_anomaly/MA/short/single/beginning/ma_contextual_anomaly_243.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+white_noise_contextual_anomaly_597.csv,./data/raw/anomaly/contextual_anomaly/White_Noise/short/single/end/white_noise_contextual_anomaly_597.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+ma_contextual_anomaly_492.csv,./data/raw/anomaly/contextual_anomaly/MA/short/single/beginning/ma_contextual_anomaly_492.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+white_noise_contextual_anomaly_129.csv,./data/raw/anomaly/contextual_anomaly/White_Noise/medium/single/beginning/white_noise_contextual_anomaly_129.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+arma_contextual_anomaly_538.csv,./data/raw/anomaly/contextual_anomaly/ARMA/medium/multiple/arma_contextual_anomaly_538.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+ma_contextual_anomaly_202.csv,./data/raw/anomaly/contextual_anomaly/MA/medium/single/end/ma_contextual_anomaly_202.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+ar_contextual_anomaly_382.csv,./data/raw/anomaly/contextual_anomaly/AR/medium/single/middle/ar_contextual_anomaly_382.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+ma_contextual_anomaly_842.csv,./data/raw/anomaly/contextual_anomaly/MA/short/single/end/ma_contextual_anomaly_842.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+arma_contextual_anomaly_866.csv,./data/raw/anomaly/contextual_anomaly/ARMA/medium/single/beginning/arma_contextual_anomaly_866.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+arma_contextual_anomaly_739.csv,./data/raw/anomaly/contextual_anomaly/ARMA/medium/single/middle/arma_contextual_anomaly_739.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+white_noise_contextual_anomaly_430.csv,./data/raw/anomaly/contextual_anomaly/White_Noise/short/single/beginning/white_noise_contextual_anomaly_430.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+ar_contextual_anomaly_219.csv,./data/raw/anomaly/contextual_anomaly/AR/short/multiple/ar_contextual_anomaly_219.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.
+white_noise_contextual_anomaly_526.csv,./data/raw/anomaly/contextual_anomaly/White_Noise/short/single/beginning/white_noise_contextual_anomaly_526.csv,Contextual Anomaly,There is a Contextual Anomaly in this series.

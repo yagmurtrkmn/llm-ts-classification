@@ -1,0 +1,26 @@
+file_name,full_path,label,description
+ma_single_point_anomaly_middle_medium_15.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/ma/ma_single_point_anomaly_middle_medium_15.csv,Point Anomaly,There is a Point Anomaly in this series.
+white_noise_single_point_anomaly_end_medium_29.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/white_noise/white_noise_single_point_anomaly_end_medium_29.csv,Point Anomaly,There is a Point Anomaly in this series.
+ma_single_point_anomaly_end_medium_21.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/ma/ma_single_point_anomaly_end_medium_21.csv,Point Anomaly,There is a Point Anomaly in this series.
+white_noise_multiple_point_anomalies_short_16.csv,./data/raw/anomaly/point_anomaly/point_anomaly_multiple/white_noise/white_noise_multiple_point_anomalies_short_16.csv,Point Anomaly,There is a Point Anomaly in this series.
+white_noise_single_point_anomaly_end_short_10.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/white_noise/white_noise_single_point_anomaly_end_short_10.csv,Point Anomaly,There is a Point Anomaly in this series.
+arma_single_point_anomaly_middle_short_20.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/arma/arma_single_point_anomaly_middle_short_20.csv,Point Anomaly,There is a Point Anomaly in this series.
+white_noise_multiple_point_anomalies_medium_46.csv,./data/raw/anomaly/point_anomaly/point_anomaly_multiple/white_noise/white_noise_multiple_point_anomalies_medium_46.csv,Point Anomaly,There is a Point Anomaly in this series.
+white_noise_multiple_point_anomalies_short_74.csv,./data/raw/anomaly/point_anomaly/point_anomaly_multiple/white_noise/white_noise_multiple_point_anomalies_short_74.csv,Point Anomaly,There is a Point Anomaly in this series.
+arma_single_point_anomaly_end_medium_28.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/arma/arma_single_point_anomaly_end_medium_28.csv,Point Anomaly,There is a Point Anomaly in this series.
+ma_multiple_point_anomalies_short_78.csv,./data/raw/anomaly/point_anomaly/point_anomaly_multiple/ma/ma_multiple_point_anomalies_short_78.csv,Point Anomaly,There is a Point Anomaly in this series.
+white_noise_multiple_point_anomalies_short_23.csv,./data/raw/anomaly/point_anomaly/point_anomaly_multiple/white_noise/white_noise_multiple_point_anomalies_short_23.csv,Point Anomaly,There is a Point Anomaly in this series.
+ma_single_point_anomaly_end_short_12.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/ma/ma_single_point_anomaly_end_short_12.csv,Point Anomaly,There is a Point Anomaly in this series.
+arma_multiple_point_anomalies_medium_2.csv,./data/raw/anomaly/point_anomaly/point_anomaly_multiple/arma/arma_multiple_point_anomalies_medium_2.csv,Point Anomaly,There is a Point Anomaly in this series.
+white_noise_single_point_anomaly_end_short_2.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/white_noise/white_noise_single_point_anomaly_end_short_2.csv,Point Anomaly,There is a Point Anomaly in this series.
+arma_single_point_anomaly_middle_medium_20.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/arma/arma_single_point_anomaly_middle_medium_20.csv,Point Anomaly,There is a Point Anomaly in this series.
+white_noise_single_point_anomaly_beginning_short_16.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/white_noise/white_noise_single_point_anomaly_beginning_short_16.csv,Point Anomaly,There is a Point Anomaly in this series.
+arma_multiple_point_anomalies_short_2.csv,./data/raw/anomaly/point_anomaly/point_anomaly_multiple/arma/arma_multiple_point_anomalies_short_2.csv,Point Anomaly,There is a Point Anomaly in this series.
+white_noise_single_point_anomaly_beginning_short_25.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/white_noise/white_noise_single_point_anomaly_beginning_short_25.csv,Point Anomaly,There is a Point Anomaly in this series.
+white_noise_multiple_point_anomalies_medium_39.csv,./data/raw/anomaly/point_anomaly/point_anomaly_multiple/white_noise/white_noise_multiple_point_anomalies_medium_39.csv,Point Anomaly,There is a Point Anomaly in this series.
+arma_multiple_point_anomalies_short_74.csv,./data/raw/anomaly/point_anomaly/point_anomaly_multiple/arma/arma_multiple_point_anomalies_short_74.csv,Point Anomaly,There is a Point Anomaly in this series.
+ar_single_point_anomaly_end_medium_22.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/ar/ar_single_point_anomaly_end_medium_22.csv,Point Anomaly,There is a Point Anomaly in this series.
+ma_multiple_point_anomalies_short_26.csv,./data/raw/anomaly/point_anomaly/point_anomaly_multiple/ma/ma_multiple_point_anomalies_short_26.csv,Point Anomaly,There is a Point Anomaly in this series.
+ar_single_point_anomaly_end_short_17.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/ar/ar_single_point_anomaly_end_short_17.csv,Point Anomaly,There is a Point Anomaly in this series.
+ma_single_point_anomaly_end_medium_27.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/ma/ma_single_point_anomaly_end_medium_27.csv,Point Anomaly,There is a Point Anomaly in this series.
+white_noise_single_point_anomaly_beginning_medium_26.csv,./data/raw/anomaly/point_anomaly/point_anomaly_single/white_noise/white_noise_single_point_anomaly_beginning_medium_26.csv,Point Anomaly,There is a Point Anomaly in this series.

@@ -1,0 +1,16 @@
+file_name,full_path,label,description
+white_noise_linear_trend_up_short_28.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_up/white_noise_linear_trend/white_noise_linear_trend_up_short_28.csv,Linear Trend,There is a Linear Trend in this series.
+arma_linear_trend_down_short_29.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/arma_linear_trend/arma_linear_trend_down_short_29.csv,Linear Trend,There is a Linear Trend in this series.
+ar_linear_trend_down_medium_16.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/ar_linear_trend/ar_linear_trend_down_medium_16.csv,Linear Trend,There is a Linear Trend in this series.
+white_noise_linear_trend_down_medium_61.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/white_noise_linear_trend/white_noise_linear_trend_down_medium_61.csv,Linear Trend,There is a Linear Trend in this series.
+ma_linear_trend_down_medium_81.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/ma_linear_trend/ma_linear_trend_down_medium_81.csv,Linear Trend,There is a Linear Trend in this series.
+ma_linear_trend_down_short_32.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/ma_linear_trend/ma_linear_trend_down_short_32.csv,Linear Trend,There is a Linear Trend in this series.
+arma_linear_trend_down_short_37.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/arma_linear_trend/arma_linear_trend_down_short_37.csv,Linear Trend,There is a Linear Trend in this series.
+arma_linear_trend_down_medium_21.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/arma_linear_trend/arma_linear_trend_down_medium_21.csv,Linear Trend,There is a Linear Trend in this series.
+white_noise_linear_trend_up_medium_56.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_up/white_noise_linear_trend/white_noise_linear_trend_up_medium_56.csv,Linear Trend,There is a Linear Trend in this series.
+ma_linear_trend_up_medium_64.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_up/ma_linear_trend/ma_linear_trend_up_medium_64.csv,Linear Trend,There is a Linear Trend in this series.
+ar_linear_trend_down_medium_78.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/ar_linear_trend/ar_linear_trend_down_medium_78.csv,Linear Trend,There is a Linear Trend in this series.
+ma_linear_trend_up_short_75.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_up/ma_linear_trend/ma_linear_trend_up_short_75.csv,Linear Trend,There is a Linear Trend in this series.
+ar_linear_trend_up_short_3.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_up/ar_linear_trend/ar_linear_trend_up_short_3.csv,Linear Trend,There is a Linear Trend in this series.
+ar_linear_trend_down_short_11.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/ar_linear_trend/ar_linear_trend_down_short_11.csv,Linear Trend,There is a Linear Trend in this series.
+ar_linear_trend_down_medium_28.csv,./data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/ar_linear_trend/ar_linear_trend_down_medium_28.csv,Linear Trend,There is a Linear Trend in this series.

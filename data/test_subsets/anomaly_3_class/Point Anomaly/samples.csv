@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+arma_multiple_point_anomalies_short_57.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/anomaly/point_anomaly/point_anomaly_multiple/arma/arma_multiple_point_anomalies_short_57.csv,Point Anomaly,Point Anomaly
+white_noise_multiple_point_anomalies_medium_75.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/anomaly/point_anomaly/point_anomaly_multiple/white_noise/white_noise_multiple_point_anomalies_medium_75.csv,Point Anomaly,Point Anomaly
+ma_multiple_point_anomalies_medium_50.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/anomaly/point_anomaly/point_anomaly_multiple/ma/ma_multiple_point_anomalies_medium_50.csv,Point Anomaly,Point Anomaly

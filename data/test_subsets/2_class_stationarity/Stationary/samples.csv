@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+white_noise_collective_anomaly_852.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/anomaly/collective_anomaly/White_Noise/medium/single/middle/white_noise_collective_anomaly_852.csv,Stationary,Collective Anomaly
+ma_collective_anomaly_423.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/anomaly/collective_anomaly/MA/medium/multiple/ma_collective_anomaly_423.csv,Stationary,Collective Anomaly
+ar_contextual_anomaly_260.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/anomaly/contextual_anomaly/AR/short/multiple/ar_contextual_anomaly_260.csv,Stationary,Contextual Anomaly

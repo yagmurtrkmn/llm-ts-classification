@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+white_noise_mean_shift_816.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/structural_break/mean_shift/White_Noise/short/single/beginning/white_noise_mean_shift_816.csv,Mean Shift,Mean Shift
+ar_mean_shift_325.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/structural_break/mean_shift/AR/short/single/middle/ar_mean_shift_325.csv,Mean Shift,Mean Shift
+arma_mean_shift_726.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/structural_break/mean_shift/ARMA/short/single/end/arma_mean_shift_726.csv,Mean Shift,Mean Shift

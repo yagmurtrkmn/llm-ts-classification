@@ -1,0 +1,16 @@
+file_name,full_path,label,description
+ma_cubic_trend_medium_89.csv,./data/raw/deterministic_trend/cubic_trend/ma_cubic_trend/ma_cubic_trend_medium_89.csv,Cubic Trend,There is a Cubic Trend in this series.
+arma_cubic_trend_short_42.csv,./data/raw/deterministic_trend/cubic_trend/arma_cubic_trend/arma_cubic_trend_short_42.csv,Cubic Trend,There is a Cubic Trend in this series.
+arma_cubic_trend_medium_51.csv,./data/raw/deterministic_trend/cubic_trend/arma_cubic_trend/arma_cubic_trend_medium_51.csv,Cubic Trend,There is a Cubic Trend in this series.
+ar_cubic_trend_short_42.csv,./data/raw/deterministic_trend/cubic_trend/ar_cubic_trend/ar_cubic_trend_short_42.csv,Cubic Trend,There is a Cubic Trend in this series.
+white_noise_cubic_trend_short_39.csv,./data/raw/deterministic_trend/cubic_trend/white_noise_cubic_trend/white_noise_cubic_trend_short_39.csv,Cubic Trend,There is a Cubic Trend in this series.
+ma_cubic_trend_short_82.csv,./data/raw/deterministic_trend/cubic_trend/ma_cubic_trend/ma_cubic_trend_short_82.csv,Cubic Trend,There is a Cubic Trend in this series.
+arma_cubic_trend_short_70.csv,./data/raw/deterministic_trend/cubic_trend/arma_cubic_trend/arma_cubic_trend_short_70.csv,Cubic Trend,There is a Cubic Trend in this series.
+ma_cubic_trend_medium_18.csv,./data/raw/deterministic_trend/cubic_trend/ma_cubic_trend/ma_cubic_trend_medium_18.csv,Cubic Trend,There is a Cubic Trend in this series.
+ma_cubic_trend_medium_13.csv,./data/raw/deterministic_trend/cubic_trend/ma_cubic_trend/ma_cubic_trend_medium_13.csv,Cubic Trend,There is a Cubic Trend in this series.
+arma_cubic_trend_short_12.csv,./data/raw/deterministic_trend/cubic_trend/arma_cubic_trend/arma_cubic_trend_short_12.csv,Cubic Trend,There is a Cubic Trend in this series.
+arma_cubic_trend_medium_34.csv,./data/raw/deterministic_trend/cubic_trend/arma_cubic_trend/arma_cubic_trend_medium_34.csv,Cubic Trend,There is a Cubic Trend in this series.
+white_noise_cubic_trend_medium_85.csv,./data/raw/deterministic_trend/cubic_trend/white_noise_cubic_trend/white_noise_cubic_trend_medium_85.csv,Cubic Trend,There is a Cubic Trend in this series.
+arma_cubic_trend_short_16.csv,./data/raw/deterministic_trend/cubic_trend/arma_cubic_trend/arma_cubic_trend_short_16.csv,Cubic Trend,There is a Cubic Trend in this series.
+white_noise_cubic_trend_medium_5.csv,./data/raw/deterministic_trend/cubic_trend/white_noise_cubic_trend/white_noise_cubic_trend_medium_5.csv,Cubic Trend,There is a Cubic Trend in this series.
+ma_cubic_trend_medium_11.csv,./data/raw/deterministic_trend/cubic_trend/ma_cubic_trend/ma_cubic_trend_medium_11.csv,Cubic Trend,There is a Cubic Trend in this series.

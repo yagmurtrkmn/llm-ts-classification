@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+random_walk_925.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/stochastic_trend/RW/stochastic_rw_short/random_walk_925.csv,Stochastic Trend,Stochastic Trend
+arima_926.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/stochastic_trend/ARIMA/stochastic_arima_medium/arima_926.csv,Stochastic Trend,Stochastic Trend
+random_walk_693.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/stochastic_trend/RW/stochastic_rw_short/random_walk_693.csv,Stochastic Trend,Stochastic Trend

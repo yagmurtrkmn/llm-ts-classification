@@ -1,0 +1,16 @@
+file_name,full_path,label,description
+arma_exponential_trend_medium_35.csv,./data/raw/deterministic_trend/exponential_trend/arma_exponential_trend/arma_exponential_trend_medium_35.csv,Exponential Trend,There is a Exponential Trend in this series.
+ar_exponential_trend_medium_5.csv,./data/raw/deterministic_trend/exponential_trend/ar_exponential_trend/ar_exponential_trend_medium_5.csv,Exponential Trend,There is a Exponential Trend in this series.
+ma_exponential_trend_medium_49.csv,./data/raw/deterministic_trend/exponential_trend/ma_exponential_trend/ma_exponential_trend_medium_49.csv,Exponential Trend,There is a Exponential Trend in this series.
+white_noise_exponential_trend_short_67.csv,./data/raw/deterministic_trend/exponential_trend/white_noise_exponential_trend/white_noise_exponential_trend_short_67.csv,Exponential Trend,There is a Exponential Trend in this series.
+arma_exponential_trend_medium_79.csv,./data/raw/deterministic_trend/exponential_trend/arma_exponential_trend/arma_exponential_trend_medium_79.csv,Exponential Trend,There is a Exponential Trend in this series.
+ma_exponential_trend_medium_52.csv,./data/raw/deterministic_trend/exponential_trend/ma_exponential_trend/ma_exponential_trend_medium_52.csv,Exponential Trend,There is a Exponential Trend in this series.
+white_noise_exponential_trend_short_36.csv,./data/raw/deterministic_trend/exponential_trend/white_noise_exponential_trend/white_noise_exponential_trend_short_36.csv,Exponential Trend,There is a Exponential Trend in this series.
+ma_exponential_trend_medium_59.csv,./data/raw/deterministic_trend/exponential_trend/ma_exponential_trend/ma_exponential_trend_medium_59.csv,Exponential Trend,There is a Exponential Trend in this series.
+arma_exponential_trend_short_25.csv,./data/raw/deterministic_trend/exponential_trend/arma_exponential_trend/arma_exponential_trend_short_25.csv,Exponential Trend,There is a Exponential Trend in this series.
+ar_exponential_trend_medium_46.csv,./data/raw/deterministic_trend/exponential_trend/ar_exponential_trend/ar_exponential_trend_medium_46.csv,Exponential Trend,There is a Exponential Trend in this series.
+arma_exponential_trend_medium_13.csv,./data/raw/deterministic_trend/exponential_trend/arma_exponential_trend/arma_exponential_trend_medium_13.csv,Exponential Trend,There is a Exponential Trend in this series.
+arma_exponential_trend_medium_23.csv,./data/raw/deterministic_trend/exponential_trend/arma_exponential_trend/arma_exponential_trend_medium_23.csv,Exponential Trend,There is a Exponential Trend in this series.
+white_noise_exponential_trend_short_31.csv,./data/raw/deterministic_trend/exponential_trend/white_noise_exponential_trend/white_noise_exponential_trend_short_31.csv,Exponential Trend,There is a Exponential Trend in this series.
+arma_exponential_trend_short_78.csv,./data/raw/deterministic_trend/exponential_trend/arma_exponential_trend/arma_exponential_trend_short_78.csv,Exponential Trend,There is a Exponential Trend in this series.
+ar_exponential_trend_short_27.csv,./data/raw/deterministic_trend/exponential_trend/ar_exponential_trend/ar_exponential_trend_short_27.csv,Exponential Trend,There is a Exponential Trend in this series.

@@ -1,0 +1,16 @@
+file_name,full_path,label,description
+arma_exponential_trend_short_16.csv,./data/raw/deterministic_trend/damped_trend/arma_damped_trend/arma_exponential_trend_short_16.csv,Damped Trend,There is a Damped Trend in this series.
+ma_damped_trend_medium_29.csv,./data/raw/deterministic_trend/damped_trend/ma_damped_trend/ma_damped_trend_medium_29.csv,Damped Trend,There is a Damped Trend in this series.
+ma_exponential_trend_short_83.csv,./data/raw/deterministic_trend/damped_trend/ma_damped_trend/ma_exponential_trend_short_83.csv,Damped Trend,There is a Damped Trend in this series.
+arma_damped_trend_short_66.csv,./data/raw/deterministic_trend/damped_trend/arma_damped_trend/arma_damped_trend_short_66.csv,Damped Trend,There is a Damped Trend in this series.
+white_noise_exponential_trend_medium_48.csv,./data/raw/deterministic_trend/damped_trend/white_noise_damped_trend/white_noise_exponential_trend_medium_48.csv,Damped Trend,There is a Damped Trend in this series.
+white_noise_damped_trend_medium_17.csv,./data/raw/deterministic_trend/damped_trend/white_noise_damped_trend/white_noise_damped_trend_medium_17.csv,Damped Trend,There is a Damped Trend in this series.
+ma_exponential_trend_short_87.csv,./data/raw/deterministic_trend/damped_trend/ma_damped_trend/ma_exponential_trend_short_87.csv,Damped Trend,There is a Damped Trend in this series.
+white_noise_exponential_trend_short_47.csv,./data/raw/deterministic_trend/damped_trend/white_noise_damped_trend/white_noise_exponential_trend_short_47.csv,Damped Trend,There is a Damped Trend in this series.
+ma_exponential_trend_medium_57.csv,./data/raw/deterministic_trend/damped_trend/ma_damped_trend/ma_exponential_trend_medium_57.csv,Damped Trend,There is a Damped Trend in this series.
+ar_exponential_trend_short_4.csv,./data/raw/deterministic_trend/damped_trend/ar_damped_trend/ar_exponential_trend_short_4.csv,Damped Trend,There is a Damped Trend in this series.
+white_noise_exponential_trend_medium_69.csv,./data/raw/deterministic_trend/damped_trend/white_noise_damped_trend/white_noise_exponential_trend_medium_69.csv,Damped Trend,There is a Damped Trend in this series.
+ar_damped_trend_medium_46.csv,./data/raw/deterministic_trend/damped_trend/ar_damped_trend/ar_damped_trend_medium_46.csv,Damped Trend,There is a Damped Trend in this series.
+arma_exponential_trend_medium_6.csv,./data/raw/deterministic_trend/damped_trend/arma_damped_trend/arma_exponential_trend_medium_6.csv,Damped Trend,There is a Damped Trend in this series.
+ar_damped_trend_short_62.csv,./data/raw/deterministic_trend/damped_trend/ar_damped_trend/ar_damped_trend_short_62.csv,Damped Trend,There is a Damped Trend in this series.
+ma_exponential_trend_short_11.csv,./data/raw/deterministic_trend/damped_trend/ma_damped_trend/ma_exponential_trend_short_11.csv,Damped Trend,There is a Damped Trend in this series.

@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+ma_collective_anomaly_215.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/anomaly/collective_anomaly/MA/short/multiple/ma_collective_anomaly_215.csv,Anomaly,Collective Anomaly
+ma_collective_anomaly_165.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/anomaly/collective_anomaly/MA/short/multiple/ma_collective_anomaly_165.csv,Anomaly,Collective Anomaly
+ma_collective_anomaly_36.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/anomaly/collective_anomaly/MA/medium/multiple/ma_collective_anomaly_36.csv,Anomaly,Collective Anomaly

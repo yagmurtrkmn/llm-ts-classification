@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+ma_exponential_trend_medium_49.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/exponential_trend/ma_exponential_trend/ma_exponential_trend_medium_49.csv,Exponential Trend,Exponential Trend
+white_noise_exponential_trend_short_67.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/exponential_trend/white_noise_exponential_trend/white_noise_exponential_trend_short_67.csv,Exponential Trend,Exponential Trend
+arma_exponential_trend_medium_79.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/exponential_trend/arma_exponential_trend/arma_exponential_trend_medium_79.csv,Exponential Trend,Exponential Trend

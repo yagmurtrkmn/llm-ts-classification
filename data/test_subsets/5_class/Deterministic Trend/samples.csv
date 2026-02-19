@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+arma_linear_trend_up_short_25.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_up/arma_linear_trend/arma_linear_trend_up_short_25.csv,Deterministic Trend,Linear Trend
+arma_linear_trend_down_medium_2.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/arma_linear_trend/arma_linear_trend_down_medium_2.csv,Deterministic Trend,Linear Trend
+arma_cubic_trend_medium_20.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/cubic_trend/arma_cubic_trend/arma_cubic_trend_medium_20.csv,Deterministic Trend,Cubic Trend

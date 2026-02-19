@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+white_noise_mean_shift_525.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/structural_break/mean_shift/White_Noise/medium/single/middle/white_noise_mean_shift_525.csv,Non-Stationary,Mean Shift
+ar_variance_shift_995.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/structural_break/variance_shift/AR/medium/multiple/ar_variance_shift_995.csv,Non-Stationary,Variance Shift
+ma_trend_shift_985.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/structural_break/trend_shift/MA/medium/multiple/ma_trend_shift_985.csv,Non-Stationary,Trend Shift

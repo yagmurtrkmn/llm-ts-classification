@@ -1,0 +1,26 @@
+file_name,full_path,label,description
+ar_trend_shift_407.csv,./data/raw/structural_break/trend_shift/AR/medium/single/end/ar_trend_shift_407.csv,Trend Shift,There is a Trend Shift in this series.
+arma_trend_shift_919.csv,./data/raw/structural_break/trend_shift/ARMA/medium/single/end/arma_trend_shift_919.csv,Trend Shift,There is a Trend Shift in this series.
+white_noise_trend_shift_866.csv,./data/raw/structural_break/trend_shift/White_Noise/short/single/beginning/white_noise_trend_shift_866.csv,Trend Shift,There is a Trend Shift in this series.
+ma_trend_shift_201.csv,./data/raw/structural_break/trend_shift/MA/medium/single/middle/ma_trend_shift_201.csv,Trend Shift,There is a Trend Shift in this series.
+ar_trend_shift_830.csv,./data/raw/structural_break/trend_shift/AR/short/multiple/ar_trend_shift_830.csv,Trend Shift,There is a Trend Shift in this series.
+white_noise_trend_shift_757.csv,./data/raw/structural_break/trend_shift/White_Noise/short/single/middle/white_noise_trend_shift_757.csv,Trend Shift,There is a Trend Shift in this series.
+arma_trend_shift_385.csv,./data/raw/structural_break/trend_shift/ARMA/medium/multiple/arma_trend_shift_385.csv,Trend Shift,There is a Trend Shift in this series.
+white_noise_trend_shift_34.csv,./data/raw/structural_break/trend_shift/White_Noise/short/single/end/white_noise_trend_shift_34.csv,Trend Shift,There is a Trend Shift in this series.
+ar_trend_shift_895.csv,./data/raw/structural_break/trend_shift/AR/medium/single/middle/ar_trend_shift_895.csv,Trend Shift,There is a Trend Shift in this series.
+arma_trend_shift_183.csv,./data/raw/structural_break/trend_shift/ARMA/medium/single/end/arma_trend_shift_183.csv,Trend Shift,There is a Trend Shift in this series.
+ma_trend_shift_914.csv,./data/raw/structural_break/trend_shift/MA/medium/single/beginning/ma_trend_shift_914.csv,Trend Shift,There is a Trend Shift in this series.
+arma_trend_shift_765.csv,./data/raw/structural_break/trend_shift/ARMA/medium/single/beginning/arma_trend_shift_765.csv,Trend Shift,There is a Trend Shift in this series.
+white_noise_trend_shift_201.csv,./data/raw/structural_break/trend_shift/White_Noise/short/single/middle/white_noise_trend_shift_201.csv,Trend Shift,There is a Trend Shift in this series.
+arma_trend_shift_79.csv,./data/raw/structural_break/trend_shift/ARMA/short/multiple/arma_trend_shift_79.csv,Trend Shift,There is a Trend Shift in this series.
+white_noise_trend_shift_263.csv,./data/raw/structural_break/trend_shift/White_Noise/medium/single/end/white_noise_trend_shift_263.csv,Trend Shift,There is a Trend Shift in this series.
+white_noise_trend_shift_760.csv,./data/raw/structural_break/trend_shift/White_Noise/medium/single/beginning/white_noise_trend_shift_760.csv,Trend Shift,There is a Trend Shift in this series.
+ma_trend_shift_227.csv,./data/raw/structural_break/trend_shift/MA/medium/single/beginning/ma_trend_shift_227.csv,Trend Shift,There is a Trend Shift in this series.
+white_noise_trend_shift_754.csv,./data/raw/structural_break/trend_shift/White_Noise/medium/single/end/white_noise_trend_shift_754.csv,Trend Shift,There is a Trend Shift in this series.
+ar_trend_shift_119.csv,./data/raw/structural_break/trend_shift/AR/short/single/beginning/ar_trend_shift_119.csv,Trend Shift,There is a Trend Shift in this series.
+ar_trend_shift_241.csv,./data/raw/structural_break/trend_shift/AR/medium/single/middle/ar_trend_shift_241.csv,Trend Shift,There is a Trend Shift in this series.
+white_noise_trend_shift_133.csv,./data/raw/structural_break/trend_shift/White_Noise/medium/single/beginning/white_noise_trend_shift_133.csv,Trend Shift,There is a Trend Shift in this series.
+white_noise_trend_shift_804.csv,./data/raw/structural_break/trend_shift/White_Noise/medium/single/middle/white_noise_trend_shift_804.csv,Trend Shift,There is a Trend Shift in this series.
+ar_trend_shift_332.csv,./data/raw/structural_break/trend_shift/AR/medium/multiple/ar_trend_shift_332.csv,Trend Shift,There is a Trend Shift in this series.
+ar_trend_shift_183.csv,./data/raw/structural_break/trend_shift/AR/medium/single/beginning/ar_trend_shift_183.csv,Trend Shift,There is a Trend Shift in this series.
+arma_trend_shift_422.csv,./data/raw/structural_break/trend_shift/ARMA/medium/single/middle/arma_trend_shift_422.csv,Trend Shift,There is a Trend Shift in this series.

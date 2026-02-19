@@ -1,0 +1,16 @@
+file_name,full_path,label,description
+arma_quadratic_trend_short_82.csv,./data/raw/deterministic_trend/quadratic_trend/arma_quadratic_trend/arma_quadratic_trend_short_82.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+ma_quadratic_trend_medium_17.csv,./data/raw/deterministic_trend/quadratic_trend/ma_quadratic_trend/ma_quadratic_trend_medium_17.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+ma_quadratic_trend_medium_10.csv,./data/raw/deterministic_trend/quadratic_trend/ma_quadratic_trend/ma_quadratic_trend_medium_10.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+white_noise_quadratic_trend_short_88.csv,./data/raw/deterministic_trend/quadratic_trend/white_noise_quadratic_trend/white_noise_quadratic_trend_short_88.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+ar_quadratic_trend_short_64.csv,./data/raw/deterministic_trend/quadratic_trend/ar_quadratic_trend/ar_quadratic_trend_short_64.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+arma_quadratic_trend_short_11.csv,./data/raw/deterministic_trend/quadratic_trend/arma_quadratic_trend/arma_quadratic_trend_short_11.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+ar_quadratic_trend_medium_2.csv,./data/raw/deterministic_trend/quadratic_trend/ar_quadratic_trend/ar_quadratic_trend_medium_2.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+ma_quadratic_trend_short_12.csv,./data/raw/deterministic_trend/quadratic_trend/ma_quadratic_trend/ma_quadratic_trend_short_12.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+ar_quadratic_trend_short_44.csv,./data/raw/deterministic_trend/quadratic_trend/ar_quadratic_trend/ar_quadratic_trend_short_44.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+ar_quadratic_trend_medium_42.csv,./data/raw/deterministic_trend/quadratic_trend/ar_quadratic_trend/ar_quadratic_trend_medium_42.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+ar_quadratic_trend_medium_75.csv,./data/raw/deterministic_trend/quadratic_trend/ar_quadratic_trend/ar_quadratic_trend_medium_75.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+white_noise_quadratic_trend_medium_60.csv,./data/raw/deterministic_trend/quadratic_trend/white_noise_quadratic_trend/white_noise_quadratic_trend_medium_60.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+ma_quadratic_trend_medium_3.csv,./data/raw/deterministic_trend/quadratic_trend/ma_quadratic_trend/ma_quadratic_trend_medium_3.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+white_noise_quadratic_trend_medium_44.csv,./data/raw/deterministic_trend/quadratic_trend/white_noise_quadratic_trend/white_noise_quadratic_trend_medium_44.csv,Quadratic Trend,There is a Quadratic Trend in this series.
+ar_quadratic_trend_short_73.csv,./data/raw/deterministic_trend/quadratic_trend/ar_quadratic_trend/ar_quadratic_trend_short_73.csv,Quadratic Trend,There is a Quadratic Trend in this series.

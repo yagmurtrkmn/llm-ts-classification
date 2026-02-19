@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+ima_561.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/stochastic_trend/IMA/stochastic_ima_medium/ima_561.csv,Stochastic Trend,Stochastic Trend
+ari_517.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/stochastic_trend/ARI/stochastic_ari_medium/ari_517.csv,Stochastic Trend,Stochastic Trend
+ari_281.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/stochastic_trend/ARI/stochastic_ari_short/ari_281.csv,Stochastic Trend,Stochastic Trend

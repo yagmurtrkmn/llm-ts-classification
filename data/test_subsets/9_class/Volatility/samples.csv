@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+egarch_629.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/volatility/EGARCH/volatility_egarch_short/egarch_629.csv,Volatility,Volatility
+aparch_469.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/volatility/APARCH/volatility_aparch_short/aparch_469.csv,Volatility,Volatility
+aparch_567.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/volatility/APARCH/volatility_aparch_medium/aparch_567.csv,Volatility,Volatility

@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+ma_contextual_anomaly_520.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/anomaly/contextual_anomaly/MA/medium/single/end/ma_contextual_anomaly_520.csv,Contextual Anomaly,Contextual Anomaly
+arma_contextual_anomaly_968.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/anomaly/contextual_anomaly/ARMA/medium/single/end/arma_contextual_anomaly_968.csv,Contextual Anomaly,Contextual Anomaly
+arma_contextual_anomaly_110.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/anomaly/contextual_anomaly/ARMA/short/single/middle/arma_contextual_anomaly_110.csv,Contextual Anomaly,Contextual Anomaly

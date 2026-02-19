@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+ma_quadratic_trend_short_19.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/quadratic_trend/ma_quadratic_trend/ma_quadratic_trend_short_19.csv,Deterministic Trend,Quadratic Trend
+white_noise_quadratic_trend_medium_51.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/quadratic_trend/white_noise_quadratic_trend/white_noise_quadratic_trend_medium_51.csv,Deterministic Trend,Quadratic Trend
+white_noise_damped_trend_medium_3.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/damped_trend/white_noise_damped_trend/white_noise_damped_trend_medium_3.csv,Deterministic Trend,Damped Trend

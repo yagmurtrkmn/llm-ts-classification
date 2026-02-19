@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+white_noise_linear_trend_down_medium_78.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/white_noise_linear_trend/white_noise_linear_trend_down_medium_78.csv,Linear Trend,Linear Trend
+arma_linear_trend_down_medium_21.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/arma_linear_trend/arma_linear_trend_down_medium_21.csv,Linear Trend,Linear Trend
+arma_linear_trend_down_short_88.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/linear_trend/deterministic_trend_linear_down/arma_linear_trend/arma_linear_trend_down_short_88.csv,Linear Trend,Linear Trend

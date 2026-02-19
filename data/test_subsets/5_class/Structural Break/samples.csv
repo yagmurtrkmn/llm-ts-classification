@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+ar_mean_shift_104.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/structural_break/mean_shift/AR/medium/single/middle/ar_mean_shift_104.csv,Structural Break,Mean Shift
+arma_trend_shift_751.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/structural_break/trend_shift/ARMA/short/multiple/arma_trend_shift_751.csv,Structural Break,Trend Shift
+ma_trend_shift_40.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/structural_break/trend_shift/MA/medium/single/end/ma_trend_shift_40.csv,Structural Break,Trend Shift

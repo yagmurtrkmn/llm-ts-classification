@@ -1,0 +1,4 @@
+file_name,full_path,label,fine_label
+ma_damped_trend_medium_23.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/damped_trend/ma_damped_trend/ma_damped_trend_medium_23.csv,Damped Trend,Damped Trend
+ar_exponential_trend_medium_11.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/damped_trend/ar_damped_trend/ar_exponential_trend_medium_11.csv,Damped Trend,Damped Trend
+ma_exponential_trend_medium_70.csv,/Users/yagmurturkmen/Desktop/llm few shot/util/../data/raw/deterministic_trend/damped_trend/ma_damped_trend/ma_exponential_trend_medium_70.csv,Damped Trend,Damped Trend
